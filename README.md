@@ -6,5 +6,5 @@ AI Chat Application(Integretion of ChatGPT)
 * Tested APIs using Postman and handled errors with proper validation.
 * Converted UTC timestamps to IST for user-friendly display.
 
-Technogies Used:
+Technologies Used:
 Node JS || Express JS || MongoDB || OpenAI API
